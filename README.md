@@ -1,5 +1,5 @@
 ﻿
-# Asynchronous Redux Without Middlewares Middlewares Using ES2017
+# Asynchronous Redux Without Middlewares Using ES2017
 
 
 
